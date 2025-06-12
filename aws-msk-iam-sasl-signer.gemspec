@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.summary = "MSK Library in Ruby for SASL/OAUTHBEARER Auth"
   spec.homepage = "https://github.com/bruce-szalwinski-he/aws-msk-iam-sasl-signer-ruby"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.0"
+  spec.required_ruby_version = ">= 2.7"
 
   spec.metadata = {
     "bug_tracker_uri" => "https://github.com/bruce-szalwinski-he/aws-msk-iam-sasl-signer-ruby/issues",
